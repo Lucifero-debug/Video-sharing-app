@@ -1,0 +1,7 @@
+/* reset.css */
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box; /* Optional: Include this line to make sure padding and border are included in the element's total width and height */
+  }
+  
